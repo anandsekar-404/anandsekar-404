@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=B026FF&center=true&vCenter=true&width=750&lines=root%40anandsekar%3A~%23+whoami;ANAND+SEKAR+%7C+Cyber+Security+Student;sudo+access+--mode%3Dlearning;Securing+systems.+Editing+frames.+%F0%9F%94%90" alt="Typing SVG" />
 
 <br>
 
