@@ -25,7 +25,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1a0033,100:0D0D0D&height=3&section=header"/>
 
-<img align="right" alt="Cyber Security GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## `[ 0x01 ]` ACCESS_GRANTED — ABOUT
 
