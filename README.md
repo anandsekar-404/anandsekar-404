@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=B026FF&center=true&vCenter=true&width=750&lines=root%40anandsekar%3A~%23+whoami;ANAND+SEKAR+%7C+Cyber+Security+Student;sudo+access+--mode%3Dlearning;Securing+systems.+Editing+frames.+%F0%9F%94%90" alt="Typing SVG" />
 
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=anandsekar-404&label=PROFILE+VISITORS&color=B026FF&style=for-the-badge&labelColor=0D0D0D" alt="Profile Views" />
 
@@ -71,37 +69,16 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1a0033,100:0D0D0D&height=3&section=header"/>
+
 
 <div align="center">
 
-## `[ 0x03 ]` GITHUB_TELEMETRY
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandsekar-404&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=B026FF&icon_color=C77DFF&text_color=FFFFFF&ring_color=B026FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandsekar-404&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=B026FF&text_color=FFFFFF"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandsekar-404&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=B026FF&fire=C77DFF&currStreakLabel=B026FF"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1a0033,100:0D0D0D&height=3&section=header"/>
 
 <div align="center">
 
-## `[ 0x04 ]` TROPHY_CASE
-
-<img src="https://github-profile-trophy.vercel.app/?username=anandsekar-404&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=6" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1a0033,100:0D0D0D&height=3&section=header"/>
-
-<div align="center">
-
-## `[ 0x05 ]` SKILL_TREE.exe
+## `[ 0x03 ]` SKILL_TREE.exe
 
 ```text
 Cyber Security        [████████░░]  80%
@@ -118,7 +95,7 @@ Ethical Hacking          [████░░░░░░]  40%
 
 <div align="center">
 
-## `[ 0x06 ]` CONTRIBUTION_MATRIX
+## `[ 0x04 ]` CONTRIBUTION_MATRIX
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandsekar-404&bg_color=0D0D0D&color=C77DFF&line=B026FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
@@ -136,7 +113,7 @@ Ethical Hacking          [████░░░░░░]  40%
 
 <div align="center">
 
-### `[ 0x07 ]` PAYLOAD
+### `[ 0x05 ]` PAYLOAD
 
 > **"The quieter you become, the more you are able to hear."**
 >
